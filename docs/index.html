@@ -4,9 +4,17 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Quote Lite</title>
+    <title>Quote Lite</title>    
 </head>
 <body>
     What you do is what you do :D - Shrikant
+    <script>
+        if('serviceWorker' in navigator) {
+          navigator.serviceWorker.register('sw.js')
+            .then(function() {
+                  console.log('Service Worker Registered');
+            });
+        }
+      </script>
 </body>
 </html>
