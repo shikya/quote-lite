@@ -2,13 +2,14 @@
 Simple Application to take adavntage of PWA + TWA stack.
 
 ## TODOs
-1. Add a sample HTML page.
-1. Add HTML and CSS to design.
-1. Add a simple quotes.
-1. Add a json fetch to import quotes.
-1. Optiomize with lighthouse.
-1. https://developers.google.com/web/progressive-web-apps/checklist
-1. Add Andriod App.
-1. https://developers.google.com/web/updates/2019/02/using-twa
-1. Publish on Web.
-1. Add build pipeline.
+- [ ] Add a sample HTML page.
+- [ ] Add HTML and CSS to design.
+- [ ] Add a simple quotes.
+- [ ] Add a json fetch to import quotes.
+- [ ] Optiomize with lighthouse.
+- [ ] https://developers.google.com/web/progressive-web-apps/checklist
+- [ ] Add Andriod App.
+- [ ] https://developers.google.com/web/updates/2019/02/using-twa
+- [ ] Publish on Web.
+- [ ] Add build pipeline.
+- [ ] Add license
