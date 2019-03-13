@@ -1,33 +1,31 @@
 {
     "name" : "Quote Lite",
     "short_name" : "quote_lite",
-    "start_url" : "https://shikya.github.io/index.html",
-    "gcm_sender_id" : "103953800507",
+    "start_url" : "https://shikya.github.io/quote-lite/index.html",
     "display" : "fullscreen",
     "background_color" : "#FF9800",
     "theme_color" : "#FF9800",
-    "lang" : "",
+    "lang" : "en-in",
     "orientation" : "portrait",
-    "generated" : "undefined",
     "icons" : [
         {
-            "src": "https://shikya.github.io/icon-48x48.png",
+            "src": "https://shikya.github.io/quote-lite/icon-48x48.png",
             "sizes": "48x48"
         },
         {
-            "src": "https://shikya.github.io/icon-72x72.png",
+            "src": "https://shikya.github.io/quote-lite/icon-72x72.png",
             "sizes": "72x72"
         },
         {
-            "src": "https://shikya.github.io/icon-96x96.png",
+            "src": "https://shikya.github.io/quote-lite/icon-96x96.png",
             "sizes": "96x96"
         },
         {
-            "src": "https://shikya.github.io/icon-144x144.png",
+            "src": "https://shikya.github.io/quote-lite/icon-144x144.png",
             "sizes": "144x144"
         },
         {
-            "src": "https://shikya.github.io/icon-192x192.png",
+            "src": "https://shikya.github.io/quote-lite/icon-192x192.png",
             "sizes": "192x192"
         }
     ]
