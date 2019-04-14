@@ -27,6 +27,10 @@
         {
             "src": "https://shikya.github.io/quote-lite/icon-192x192.png",
             "sizes": "192x192"
-        }
+        },
+        {
+            "src": "https://shikya.github.io/quote-lite/icon-192x192.png",
+            "sizes": "512x512"
+        }        
     ]
 }
