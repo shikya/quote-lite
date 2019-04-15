@@ -2,6 +2,7 @@ var cacheName = 'quote-lite';
 var filesToCache = [
   '',
   'index.html',
+  'randomColor.min.js'
 ];
 self.addEventListener('install', function(e) {
   console.log('[ServiceWorker] Install');
