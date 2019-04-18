@@ -1,6 +1,6 @@
 {
     "name" : "Quote Lite",
-    "short_name" : "quote_lite",
+    "short_name" : "Quote Lite",
     "start_url" : "https://shikya.github.io/quote-lite/index.html",
     "display" : "fullscreen",
     "background_color" : "#FF9800",
